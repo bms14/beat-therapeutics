@@ -1,11 +1,11 @@
 {
-    "name": "soon_page",
-    "short_name": "soon_page",
+    "name": "beat_therapeutics",
+    "short_name": "beat_therapeutics",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "We will be back soon",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
