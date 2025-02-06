@@ -34647,7 +34647,7 @@ m=A.Bo(B.h)
 l=A.a6("funding & awards".toUpperCase(),e,e,e,A.an(e,e,B.Y,e,e,e,e,e,d,e,e,45,e,e,B.aY,e,e,!0,e,e,e,e,e,e,e,e),B.at)
 k=f.z
 k===$&&A.b()
-k=A.WB(0,B.aI,!0,k,new A.a9g(f),10,280,!0,new A.a9h(f),0.2)
+k=A.WB(0,B.aI,!0,k,new A.a9g(f),10,290,!0,new A.a9h(f),0.2)
 j=f.dx
 j===$&&A.b()
 if(j){j=B.eO.hZ(0.15)
@@ -34659,7 +34659,7 @@ j=A.uZ(A.U(e,A.da(B.a_,A.a([k,j],p),B.a5,e),B.e,e,e,e,e,120,e,e,B.he,e,e,e),B.d2
 k=A.a6("Network".toUpperCase(),e,e,e,A.an(e,e,B.Y,e,e,e,e,e,d,e,e,45,e,e,B.aY,e,e,!0,e,e,e,e,e,e,e,e),B.at)
 i=f.Q
 i===$&&A.b()
-i=A.WB(0,B.aI,!0,i,new A.a9o(f),9,280,!0,new A.a9p(f),0.2)
+i=A.WB(0,B.aI,!0,i,new A.a9o(f),9,290,!0,new A.a9p(f),0.2)
 h=f.dy
 h===$&&A.b()
 if(h){h=B.eO.hZ(0.15)
