@@ -34589,7 +34589,7 @@ s=a/10
 return q.ji(a,b,a/15,b/80,b/85,b/55,b/30,p,p,a/6.5,s,s,a/5,c)}}
 A.mo.prototype={
 af(){var s=null,r=t.A,q=t.s
-return new A.Kl(new A.b5(s,t.sW),new A.b5(s,r),new A.b5(s,r),new A.b5(s,r),new A.b5(s,r),new A.b5(s,r),A.a2U(),A.a([B.zM,B.zK,B.zN,B.zO,B.zL],t.GH),A.a(["assets/images/awards/awards_0.png","assets/images/awards/awards_1.png","assets/images/awards/awards_2.png","assets/images/awards/awards_3.png","assets/images/awards/awards_4.png","assets/images/awards/awards_5.png","assets/images/awards/awards_7.png","assets/images/awards/awards_8.png","assets/images/awards/awards_9.png"],q),A.a(["assets/images/partners/partners_0.jpg","assets/images/partners/partners_1.jpg","assets/images/partners/partners_2.jpg","assets/images/partners/partners_3.jpg","assets/images/partners/partners_4.jpg","assets/images/partners/partners_5.jpg","assets/images/partners/partners_6.jpg","assets/images/partners/partners_7.jpg","assets/images/partners/partners_8.jpg"],q),s,s)}}
+return new A.Kl(new A.b5(s,t.sW),new A.b5(s,r),new A.b5(s,r),new A.b5(s,r),new A.b5(s,r),new A.b5(s,r),A.a2U(),A.a([B.zM,B.zK,B.zN,B.zO,B.zL],t.GH),A.a(["assets/images/awards/awards_0.png","assets/images/awards/awards_1.png","assets/images/awards/awards_2.png","assets/images/awards/awards_3.png","assets/images/awards/awards_4.png","assets/images/awards/awards_5.png","assets/images/awards/awards_7.png","assets/images/awards/awards_8.png","assets/images/awards/awards_9.png","assets/images/awards/awards_10.png"],q),A.a(["assets/images/partners/partners_0.jpg","assets/images/partners/partners_1.jpg","assets/images/partners/partners_2.jpg","assets/images/partners/partners_3.jpg","assets/images/partners/partners_4.jpg","assets/images/partners/partners_5.jpg","assets/images/partners/partners_6.jpg","assets/images/partners/partners_7.jpg","assets/images/partners/partners_8.jpg"],q),s,s)}}
 A.Kl.prototype={
 am(){var s,r=this
 r.ch=B.m
@@ -34647,7 +34647,7 @@ m=A.Bo(B.h)
 l=A.a6("funding & awards".toUpperCase(),e,e,e,A.an(e,e,B.Y,e,e,e,e,e,d,e,e,45,e,e,B.aY,e,e,!0,e,e,e,e,e,e,e,e),B.at)
 k=f.z
 k===$&&A.b()
-k=A.WB(0,B.aI,!0,k,new A.a9g(f),9,280,!0,new A.a9h(f),0.2)
+k=A.WB(0,B.aI,!0,k,new A.a9g(f),10,280,!0,new A.a9h(f),0.2)
 j=f.dx
 j===$&&A.b()
 if(j){j=B.eO.hZ(0.15)
@@ -34709,7 +34709,7 @@ m=A.U(e,A.aF(A.a([A.U(e,e,B.e,B.h,e,e,e,70,e,e,e,e,e,r),A.U(e,A.ds().a07(q,r),B.
 o=A.a6("funding & awards".toUpperCase(),e,e,e,A.an(e,e,B.Y,e,e,e,e,e,d,e,e,22,e,e,B.aY,e,e,!0,e,e,e,e,e,e,e,e),B.at)
 i=f.z
 i===$&&A.b()
-i=A.U(e,A.WB(0,B.aI,!0,i,new A.a9B(f),9,150,!0,new A.a9C(f),0.4),B.e,e,e,e,e,80,e,e,B.er,e,e,e)
+i=A.U(e,A.WB(0,B.aI,!0,i,new A.a9B(f),10,150,!0,new A.a9C(f),0.4),B.e,e,e,e,e,80,e,e,B.er,e,e,e)
 h=A.a6("Network".toUpperCase(),e,e,e,A.an(e,e,B.Y,e,e,e,e,e,d,e,e,22,e,e,B.aY,e,e,!0,e,e,e,e,e,e,e,e),e)
 g=f.Q
 g===$&&A.b()
